@@ -101,6 +101,7 @@ function ValidatePhoneNo() {
 	} else result = true;
 }
 
+
 function ValidateFax() {
 	var fax = document.getElementById("txtFax");
 	var regex = /^\+?[0-9]{6,}$/;
