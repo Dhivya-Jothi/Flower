@@ -4,7 +4,6 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-
 	<title>Flowershop</title>
 	<link rel="stylesheet" href="FlowerStyleSheet.css" />
 	<script src="Validation.js"></script>
