@@ -1,0 +1,125 @@
+﻿h2 {
+	color: midnightblue;
+	font-style: inherit;
+	height: 30px;
+	width: 600px;
+}
+h3 {
+	color: midnightblue;
+	font-style: normal;
+}
+.BorderContent {
+	width: 800px;
+	margin: auto;
+	position: center;
+	background-color: white;
+	border: groove;
+}
+
+.Formfill {
+	padding: 20px;
+	background-color: yellowgreen;
+	margin-top: 20px;
+}
+
+.floweralign {
+	float: left;
+	width: 25%;
+}
+
+.paymentBlog {
+	float: left;
+	width: 75%;
+}
+
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+
+.Visa {
+	float: left;
+	width: 17%;
+	padding: 10px;
+	
+}
+
+.paymentDetailBlog {
+	float: left;
+	width: 30%;
+	padding: 10px;
+}
+
+.paymentboxBlog {
+	float: left;
+	width: 43%;
+	padding: 10px;
+}
+
+.footer {
+	padding: 5px;
+	background-color: yellowgreen;
+	margin-top: 20px;
+	color: midnightblue;
+	text-align: center;
+}
+
+.CardBackgroundColor {
+	background-color: bisque;
+}
+
+.CardDetail {
+	background-color: yellowgreen;
+	color: white;
+	float: left;
+	width: 100%;
+}
+
+.CardDetailText {
+	float: left;
+	width: 30%;
+	padding: 10px;
+	background-color: bisque;
+}
+
+.CardBox {
+	float: left;
+	width: 63.09%;
+	padding: 10px;
+	background-color: bisque;
+}
+hr.line {
+	border: 1px groove black;
+}
+
+.imgstartcolumn {
+	float: left;
+	width: 60%;
+	padding: 10px;
+}
+
+.imgendcolumn {
+	float: left;
+	width: 40%;
+	padding: 10px;
+}
+
+.payment {
+	float: right;
+	width: 60%;
+}
+.button {
+	color: blue;
+	background-color:white;
+}
+.makepayment {
+	color:blue;
+	float: right;
+	display: block;
+	margin-right: 20px;
+	clear: left;
+	background-color: white;
+}
+	
